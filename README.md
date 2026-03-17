@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patidarnikku13-ops/75_Np/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/patidarnikku13-ops/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/patidarnikku13-ops/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/patidarnikku13-ops/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -48,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
