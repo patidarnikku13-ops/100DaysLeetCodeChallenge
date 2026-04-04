@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
