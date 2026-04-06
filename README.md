@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/patidarnikku13-ops/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
