@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/patidarnikku13-ops/75_Np/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
