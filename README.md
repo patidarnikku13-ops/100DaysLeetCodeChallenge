@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
