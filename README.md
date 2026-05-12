@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Linked List
