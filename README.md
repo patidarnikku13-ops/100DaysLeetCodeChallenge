@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -329,12 +332,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
