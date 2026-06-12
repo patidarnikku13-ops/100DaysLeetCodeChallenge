@@ -1,0 +1,18 @@
+import java.util.*;
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals,(a,b) -> a[0] - b[0]);//sort by start
+        Stack<int[]> stack = new Stack<>();
+        stack.push(intervals[0]);
+
+        for(int i = 1;i < intervals.length; i++){
+            int[] top = stack.peek();
+            if(top[1] >= intervals[i][0]){ // overlap
+                top[1] = Math.max(top[1], intervals[i][1]);
+            }else{
+                stack.push(intervals[i]);
+            }
+        }
+        return stack.toArray(new int[stack.size()][]);
+    }
+}
