@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
