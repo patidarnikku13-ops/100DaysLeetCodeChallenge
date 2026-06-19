@@ -21,7 +21,7 @@ class Solution {
         for(int i = 0 ;i<n ; i++){
             int waterlevel = Math.min(leftMax[i], rightMax[i]);
 
-            trappedWater += waterlevel - height[i];
+            trappedWater += (waterlevel - height[i]) * 1;
         }
         return trappedWater;
 
