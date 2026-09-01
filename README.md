@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
