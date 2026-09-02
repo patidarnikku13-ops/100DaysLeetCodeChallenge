@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
