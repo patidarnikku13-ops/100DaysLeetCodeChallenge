@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/patidarnikku13-ops/75_Np/tree/master/0509-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
