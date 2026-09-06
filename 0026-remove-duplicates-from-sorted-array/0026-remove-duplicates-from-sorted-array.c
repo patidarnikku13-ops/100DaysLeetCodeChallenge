@@ -6,7 +6,7 @@ int removeDuplicates(int* nums, int numsSize) {
       k=nums[i];
       nums[count]=nums[i];//for unique value 
        count++;
-    }
+     }
    }
-   return count;
+   return count;  
 }
