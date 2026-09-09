@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
