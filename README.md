@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/patidarnikku13-ops/75_Np/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Dynamic Programming
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
