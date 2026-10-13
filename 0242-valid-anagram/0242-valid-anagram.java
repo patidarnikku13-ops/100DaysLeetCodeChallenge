@@ -10,7 +10,7 @@ class Solution {
         Arrays.sort(a);
         Arrays.sort(b);
 
-        return Arrays.equals(a, b);
+        return Arrays.equals(a, b);//Arrays.equals() dono arrays ke elements ko ek-ek karke compare karta hai
     
     }
 }
