@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
