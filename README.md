@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
